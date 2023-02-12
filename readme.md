@@ -9,8 +9,7 @@ Resume parsing is the process of automatically extracting information from a res
 2. Missing information: Resumes may not contain all the information required for a particular job application, which can lead to missing or incomplete data.
 - *There is a lot of potential for continued improvement in the field of resume parsing, and it will likely continue to play a critical role in automating the recruitment process for many organizations.*
 
-# This project using flask to test in local host:
-**Setup Environment**
+## Setup Environment using flask in localhost
 
 1. Install Flask: You can install Flask by running the following command in your terminal or command prompt: pip install Flask
 2. Create a new Flask project: You can create a new Flask project by creating a new directory and creating a file named app.py in that directory.
