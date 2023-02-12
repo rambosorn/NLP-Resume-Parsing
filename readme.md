@@ -17,7 +17,7 @@ Resume parsing is the process of automatically extracting information from a res
 4. Run the Flask application: You can run the Flask application by executing the following command in your terminal or command prompt: FLASK_APP=app.py FLASK_ENV=development flask run. or
    - cd project directory
    - python app.py
-   - Note: Test the application: You can test the application by visiting http://localhost:5000 in your web browser or add port you want 3000..
+   - Note: Test the application: You can test the application by visiting http://localhost:5000 in your web browser or add any port you want 3000..
 
 
 
