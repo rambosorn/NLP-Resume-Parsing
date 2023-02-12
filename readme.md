@@ -1,10 +1,13 @@
 # Resume Parsing using Natural language processing
 Project Inspired by **Prof.Chaky** and my dear friend **Tonson**, and also well support from our TA **Amanda**
+- Prof.github: https://github.com/chaklam-silpasuwanchai/Python-for-NLP
 
-1. Prof.github: https://github.com/chaklam-silpasuwanchai/Python-for-NLP
-2. Tonson github:https://github.com/TonsonP/NLP_Assignment
+# This project using flask to test the project run in local host:
+Install Flask: You can install Flask by running the following command in your terminal or command prompt: pip install Flask
 
-# Resume Parsing 
+Create a new Flask project: You can create a new Flask project by creating a new directory and creating a file named app.py in that directory. Then, you can write the following code in the app.py file:
+ 
+
 
 
 
