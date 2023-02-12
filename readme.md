@@ -4,7 +4,10 @@ Project Inspired by **Prof.Chaky** and my dear friend **Tonson**,**Ati** and als
 
 Resume parsing is the process of automatically extracting information from a resume and converting it into a structured format using natural language processing (NLP) techniques and machine learning algorithms. This includes extracting the text from the resume file, identifying and extracting individual fields of information, classifying the information into specific categories, and transforming it into a structured format. The goal is to make the process of reviewing and storing resumes more efficient and accurate.
 
-
+### Limitation
+1. Formatting: Resumes come in different formats and styles, which can make it difficult for the parser to extract information consistently.
+2. Missing information: Resumes may not contain all the information required for a particular job application, which can lead to missing or incomplete data.
+** There is a lot of potential for continued improvement in the field of resume parsing, and it will likely continue to play a critical role in automating the recruitment process for many organizations.**
 
 # This project using flask to test in local host:
 **Setup Environment**
