@@ -26,7 +26,7 @@ Resume parsing is the process of automatically extracting information from a res
 ### Result Extraction
    <img src="https://github.com/rambosorn/NLP-Resume-Parsing/blob/main/image/result.png" alt="Alt text" title="Optional title">
    
- However, the website not reallyy beauty interface design!! maybe future work we can develop more!!
+ However, the website not reallyy beauty interface design yet!! maybe future work we can develop more!!
    
 
 
