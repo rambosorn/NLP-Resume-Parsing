@@ -20,9 +20,9 @@ Resume parsing is the process of automatically extracting information from a res
    - Note: Test the application: You can test the application by visiting http://localhost:5000 in your web browser or add any port you want 3000..
    
    
- ### User interfacae
+### User interfacae
    <img src="https://github.com/rambosorn/NLP-Resume-Parsing/blob/main/image/use_interface.png" alt="Alt text" title="Optional title">
- ### result extraction
+### result extraction
    <img src="https://github.com/rambosorn/NLP-Resume-Parsing/blob/main/image/result.png" alt="Alt text" title="Optional title">
    
  However, the website not realyy beauty interface design!! maybe future work we can develop more!!
