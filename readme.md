@@ -21,10 +21,10 @@ Resume parsing is the process of automatically extracting information from a res
    
    
 ### User interfacae
-   <img src="https://github.com/rambosorn/NLP-Resume-Parsing/blob/main/image/use_interface.png" alt="Alt text" title="Optional title">
+   <img src="https://github.com/rambosorn/NLP-Resume-Parsing/blob/main/fig/use_interface.png" alt="Alt text" title="Optional title">
    
 ### Result Extraction
-   <img src="https://github.com/rambosorn/NLP-Resume-Parsing/blob/main/image/result.png" alt="Alt text" title="Optional title">
+   <img src="https://github.com/rambosorn/NLP-Resume-Parsing/blob/main/fig/result.png" alt="Alt text" title="Optional title">
    
  However, the website not reallyy beauty interface design yet!! maybe future work I can develop more!!
    
